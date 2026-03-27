@@ -10,7 +10,7 @@ class Rabbithole < Formula
   depends_on "python@3.12"
 
   resource "beautifulsoup4" do
-    url "url "https://files.pythonhosted.org/packages/1a/39/47f9197bdd44df24d67ac8893641e16f386c984a0619ef2ee4c51fbbc019/beautifulsoup4-4.14.3-py3-none-any.whl""
+    url "https://files.pythonhosted.org/packages/1a/39/47f9197bdd44df24d67ac8893641e16f386c984a0619ef2ee4c51fbbc019/beautifulsoup4-4.14.3-py3-none-any.whl"
     sha256 "0918bfe44902e6ad8d57732ba310582e98da931428d231a5ecb9e7c703a735bb"
   end
   
