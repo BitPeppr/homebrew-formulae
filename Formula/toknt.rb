@@ -3,8 +3,8 @@ class Toknt < Formula
 
   desc "Local-first token, cost and tool analytics for AI coding harnesses"
   homepage "https://github.com/BitPeppr/toknt"
-  url "https://files.pythonhosted.org/packages/df/b9/805d1afda77ae7e9f107c74f6c89cf42e2537a0883c591e4d101ccb6081c/toknt-0.1.1.tar.gz"
-  sha256 "ad4a389a6d05d861b678e7ed758b1db91f66489244e2fe7244f490eae8ba71f1"
+  url "https://files.pythonhosted.org/packages/8a/1e/d5a3e420577aa0032de04ad9960302642ab2a3142e63d6782f684e0a3f47/toknt-0.2.0.tar.gz"
+  sha256 "af838c617bc8a26925572f3267d1ab9f57ed7e2ce4c226c7990e3c325b858c0a"
   license "MIT"
 
   depends_on "python@3.13"
